@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="fr_project_title"><![CDATA[visite-bat-S3]]></data>
+
+
+
+  <data name="fr_pano443_title"><![CDATA[salle-H202-203]]></data>
+  <data name="fr_spotpoint466_tooltip"><![CDATA[Accès à la visite du bâtment S]]></data>
+
+
+  <data name="fr_pano115_title"><![CDATA[parvis-bat-S-2]]></data>
+  <data name="fr_spotpolygon220_tooltip"><![CDATA[cuves-eaux-grises]]></data>
+  <data name="fr_spotpolygon424_tooltip"><![CDATA[toiture-terrasse- installation photovoltaïque]]></data>
+  <data name="fr_spotpolygon431_tooltip"><![CDATA[Le foyer]]></data>
+  <data name="fr_spotpoint921_tooltip"><![CDATA[accès à lachaufferie]]></data>
+
+  <data name="fr_panogroup102_title"><![CDATA[local-cuves]]></data>
+
+  <data name="fr_pano77_title"><![CDATA[cuves-eaux-grises]]></data>
+  <data name="fr_spotpoint416_tooltip"><![CDATA[vers coin filtration-stérélisation]]></data>
+  <data name="fr_spotpoint1003_tooltip"><![CDATA[installation pour la récupération des calories des eaux grises]]></data>
+  <data name="fr_pano81_title"><![CDATA[eaux-grises-3]]></data>
+  <data name="fr_spotpoint339_tooltip"><![CDATA[Lampe UV]]></data>
+  <data name="fr_spotpoint422_tooltip"><![CDATA[retour parvis]]></data>
+
+  <data name="fr_panogroup95_title"><![CDATA[foyer]]></data>
+
+  <data name="fr_pano85_title"><![CDATA[Le foyer]]></data>
+  <data name="fr_spotpoint434_tooltip"><![CDATA[salle principale]]></data>
+  <data name="fr_spotpoint436_tooltip"><![CDATA[coin travail]]></data>
+  <data name="fr_pano439_title"><![CDATA[petite-salle-foyer]]></data>
+  <data name="fr_spotpoint472_tooltip"><![CDATA[vers parvis]]></data>
+  <data name="fr_pano84_title"><![CDATA[foyer-bat-S-2]]></data>
+  <data name="fr_spotpoint467_tooltip"><![CDATA[retour entrée]]></data>
+  <data name="fr_pano83_title"><![CDATA[foyer-salle_principale]]></data>
+  <data name="fr_spotpoint468_tooltip"><![CDATA[salle de réunion]]></data>
+
+  <data name="fr_panogroup463_title"><![CDATA[toiture]]></data>
+
+  <data name="fr_pano444_title"><![CDATA[toiture-terrasse- installation photovoltaïque]]></data>
+  <data name="fr_spotpoint701_tooltip"><![CDATA[plan des toitures terrasse]]></data>
+  <data name="fr_spotpoint1013_tooltip"><![CDATA[Panneaux solaire thermique - production d'Eau chaude Sanitaire]]></data>
+  <data name="fr_spotpoint1018_tooltip"><![CDATA[vers installation photovoltaïque]]></data>
+  <data name="fr_spotpoint1019_tooltip"><![CDATA[Retour vers le parvis]]></data>
+  <data name="fr_pano445_title"><![CDATA[toiture-terrasse(2)]]></data>
+  <data name="fr_pano447_title"><![CDATA[toiture-terrasse-3]]></data>
+  <data name="fr_spotpoint704_tooltip"><![CDATA[Retour vers le parvis]]></data>
+  <data name="fr_spotpoint705_tooltip"><![CDATA[vers toiture terrasse du foyer]]></data>
+  <data name="fr_spotpoint1010_tooltip"><![CDATA[vers angle du bâtiment]]></data>
+  <data name="fr_spotpoint1273_tooltip"><![CDATA[Panneaux solaire thermique - production d'Eau chaude Sanitaire]]></data>
+  <data name="fr_pano929_title"><![CDATA[toiture-terrasse-4]]></data>
+  <data name="fr_spotpoint1000_tooltip"><![CDATA[angle bâtiment]]></data>
+  <data name="fr_spotpoint1008_tooltip"><![CDATA[panneaux phtovoltaïques]]></data>
+
+
+  <data name="fr_pano114_title"><![CDATA[parvis-bat-S-1]]></data>
+
+
+  <data name="fr_pano474_title"><![CDATA[parvis-bat-S-sortie-foyer]]></data>
+  <data name="fr_spotpoint546_tooltip"><![CDATA[Vers toit terrasse du foyer]]></data>
+
+
+  <data name="fr_pano448_title"><![CDATA[toiture-terrasse-foyer]]></data>
+  <data name="fr_spotpoint689_tooltip"><![CDATA[Puits de lumière]]></data>
+  <data name="fr_spotpoint1272_tooltip"><![CDATA[vers Locaux techniques-foyer-inst.phovoltaïque]]></data>
+
+  <data name="fr_panogroup923_title"><![CDATA[Groupe 923]]></data>
+
+  <data name="fr_pano922_title"><![CDATA[chaufferie-bat-S-1]]></data>
+  <data name="fr_spotpoint926_tooltip"><![CDATA[Sortie vers le parvis]]></data>
+  <data name="fr_spotpoint1015_tooltip"><![CDATA[schema installaion Eau chaude Sanitaire (ECS)]]></data>
+  <data name="fr_pano849_title"><![CDATA[chaufferie-bat-S-2]]></data>
+
+
+
+
+	<data name="fr_project_floor_title"><![CDATA[plan masse]]></data>
+	<data name="fr_spotmap696_tooltip"><![CDATA[Toit terrasse du foyer]]></data>
+	<data name="fr_spotmap697_tooltip"><![CDATA[Accès à l'installation photovoltaîque]]></data>
+	<data name="fr_spotmap698_tooltip"><![CDATA[vue sortie du Foyer]]></data>
+	<data name="fr_spotmap699_tooltip"><![CDATA[Accès (Chaufferie-Local Cuves-Foyer)]]></data>
+	<data name="fr_spotmap706_tooltip"><![CDATA[vue depuis le parvis]]></data>
+
+
+  <data name="fr_controlBar_roundedprevSceneTip"><![CDATA[Panorama précédent]]></data>
+  <data name="fr_controlBar_roundednextSceneTip"><![CDATA[Panorama suivant]]></data>
+  <data name="fr_controlBar_roundedmoveLeftTip"><![CDATA[Déplacement vers la gauche]]></data>
+  <data name="fr_controlBar_roundedmoveRightTip"><![CDATA[Déplacement vers la droite]]></data>
+  <data name="fr_controlBar_roundedmoveUpTip"><![CDATA[Déplacement vers le haut]]></data>
+  <data name="fr_controlBar_roundedmoveDownTip"><![CDATA[Déplacement vers le bas]]></data>
+  <data name="fr_controlBar_roundedopenFsTip"><![CDATA[Plein écran]]></data>
+  <data name="fr_controlBar_roundedcloseFsTip"><![CDATA[Quitter le plein écran]]></data>
+  <data name="fr_controlBar_roundedautorotateOnTip"><![CDATA[Démarrer l'Autorotation]]></data>
+  <data name="fr_controlBar_roundedautorotateOffTip"><![CDATA[Arrêter l'Autorotation]]></data>
+  <data name="fr_controlBar_roundeddisplayFloorplanTip"><![CDATA[Afficher le plan]]></data>
+  <data name="fr_controlBar_roundedhideFloorplanTip"><![CDATA[Masquer le plan]]></data>
+  <data name="fr_controlBar_roundeddisplayControlsTip"><![CDATA[Afficher les contrôles]]></data>
+  <data name="fr_controlBar_roundedhideControlsTip"><![CDATA[Masquer les contrôles]]></data>
+  <data name="fr_controlBar_roundedctrlmodeDragTip"><![CDATA[Changer le mode de navigation]]></data>
+  <data name="fr_controlBar_roundedctrlmodeMoveTip"><![CDATA[Changer le mode de navigation]]></data>
+
+
+  <data name="fr_vr_setup_hmd0"><![CDATA[CHOIX DU HMD]]></data>
+  <data name="fr_vr_setup_advanced"><![CDATA[PARAMETRES AVANCES]]></data>
+  <data name="fr_vr_setup_title"><![CDATA[PARAMETRES WEB VR]]></data>
+  <data name="fr_vr_setup_dvn1"><![CDATA[Appareil:]]></data>
+  <data name="fr_vr_setup_siz1"><![CDATA[Taille de l&#39;écran:]]></data>
+  <data name="fr_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="fr_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="fr_vr_setup_hmd3"><![CDATA[Personnaliser]]></data>
+  <data name="fr_vr_setup_cal"><![CDATA[Calibrer le gyroscope]]></data>
+  <data name="fr_vr_setup_sav"><![CDATA[ENREGISTRER]]></data>
+  <data name="fr_vr_setup_rst"><![CDATA[REINITIALISER]]></data>
+  <data name="fr_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="fr_vr_setup_cls"><![CDATA[FERMER]]></data>
+  <data name="fr_vr_setup_m31"><![CDATA[PARAMETRES DU HMD]]></data>
+  <data name="fr_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="fr_vr_setup_dst1"><![CDATA[Distorsion:]]></data>
+  <data name="fr_vr_setup_d2tx"><![CDATA[Distorsion 2:]]></data>
+  <data name="fr_vr_setup_vig1"><![CDATA[Vignettage:]]></data>
+  <data name="fr_vr_setup_cac1"><![CDATA[Aberration chromatique:]]></data>
+  <data name="fr_vr_setup_olp1"><![CDATA[Recouvrement:]]></data>
+  <data name="fr_vr_setup_m35"><![CDATA[RETOUR]]></data>
+  <data name="fr_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="fr_vr_setup_cb2"><![CDATA[Placer l&#39;appareil sur une surface plane et stable[br]puis tapez sur CALIBRER[br]pour corriger la dérive du gyroscope.]]></data>
+  <data name="fr_vr_setup_cb3"><![CDATA[CALIBRER]]></data>
+  <data name="fr_vr_setup_cb4"><![CDATA[REINITIALISER]]></data>
+  <data name="fr_vr_setup_cb5"><![CDATA[RETOUR]]></data>
+  <data name="fr_vr_setup_cb6"><![CDATA[Calibration en cours...]]></data>
+  <data name="fr_vr_setup_cb7"><![CDATA[Calibration réussie]]></data>
+  <data name="fr_vr_setup_cb8"><![CDATA[Echec de la calibration]]></data>
+  <data name="fr_vr_setup_unavailable"><![CDATA[Le mode VR[br]n&#39;est pas disponible sur cet appareil]]></data>
+
+
+
+
+
+
+
+
+
+  <data name="fr_panogroup102_description"><![CDATA[Local des cuves pour la récupération des calories des eaux grises.]]></data>
+
+
+
+
+  <data name="fr_panogroup95_description"><![CDATA[accès au foyer]]></data>
+
+
+
+
+
+
+  <data name="fr_panogroup463_description"><![CDATA[Accès à la toiture terrasse, voir l'installation phovoltaïque.]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
